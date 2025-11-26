@@ -1,0 +1,26 @@
+:root {
+    --brand-color: #00B140;
+    --primary-color: #00B140;
+}
+
+/* Fondo del encabezado */
+.header {
+    background-color: #1B1B1B !important;
+}
+
+/* Botones */
+.button.primary {
+    background-color: #00B140 !important;
+    border-color: #00B140 !important;
+}
+
+/* Enlaces */
+a {
+    color: #00B140;
+}
+
+/* Fondo general (si el portal lo permite) */
+body {
+    background-color: #F5F6F7;
+    color: #1E1E1E;
+}

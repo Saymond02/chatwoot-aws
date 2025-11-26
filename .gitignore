@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Storage / Data
+storage/
+tmp/
+log/
+public/uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node / Rails
+node_modules/
+coverage/
+.byebug_history
